@@ -18,8 +18,8 @@
    "label":"Male",
    "shape":"icon",
    "icon": {
-     "face":"Ionicons",
-     "code":"\uf3a0"
+     "face":"FontAwesome",
+     "code":"\uf183"
    },  
    "group":"sub"
   },
