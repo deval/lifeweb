@@ -1,16 +1,25 @@
 [
  {"from":"person1",
   "to":"biography1"},
+ 
  {"from":"biography1",
   "to":"biography1a"},
  {"from":"biography1",
   "to":"biography1b"},
  {"from":"biography1",
   "to":"biography1c"},
+ 
  {"from":"person1",
   "to":"work1"},
+ 
+ {"from":"work1",
+  "to":"work1a"},
+ {"from":"work1",
+  "to":"work1b"},
+ 
  {"from":"person1",
   "to":"education1"},
+ 
  {"from":"person1",
   "to":"skill1"}
 
