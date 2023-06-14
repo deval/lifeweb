@@ -9,8 +9,8 @@
    "label":"Biography",
    "shape":"icon",
    "icon": {
-     "face":"Ionicons",
-     "code":"\uf3a0"
+     "face":"FontAwesome",
+     "code":"\uf007"
    },  
    "group":"main"
   },
@@ -19,7 +19,7 @@
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
-     "code":"\uf183"
+     "code":"\uf222"
    },  
    "group":"sub"
   },
@@ -27,8 +27,8 @@
    "label":"Surabaya",
    "shape":"icon",
    "icon": {
-     "face":"Ionicons",
-     "code":"\uf3a0"
+     "face":"FontAwesome",
+     "code":"\uf015"
    },  
    "group":"sub"
   },
@@ -36,8 +36,8 @@
    "label":"INTP",
    "shape":"icon",
    "icon": {
-     "face":"Ionicons",
-     "code":"\uf3a0"
+     "face":"FontAwesome",
+     "code":"\uf5dc"
    },  
    "group":"sub"
   }
