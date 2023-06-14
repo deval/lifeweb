@@ -85,6 +85,36 @@
      "code":"\uf7d9"
    },  
    "group":"main"
-  }
+  },
+  {"id":"interest1",
+   "label":"Interest",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf7d9"
+   },  
+   "group":"main"
+  },
+  {"id":"interest1a",
+   "label":"Photography",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf7d9"
+   },  
+   "group":"main"
+  },
+  {"id":"interest1b",
+   "label":"Traveling",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf7d9"
+   },  
+   "group":"main"
+  },
 
+  
+  
+  
 ]
