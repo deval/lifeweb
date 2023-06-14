@@ -10,7 +10,7 @@
    "shape":"icon",
    "icon": {
      "face":"Ionicons",
-     "code":"\f3a0"
+     "code":"\uf3a0"
    },  
    "group":"main"
   },
@@ -19,7 +19,7 @@
    "shape":"icon",
    "icon": {
      "face":"Ionicons",
-     "code":"\f3a0"
+     "code":"\uf3a0"
    },  
    "group":"sub"
   },
@@ -28,7 +28,7 @@
    "shape":"icon",
    "icon": {
      "face":"Ionicons",
-     "code":"\f3a0"
+     "code":"\uf3a0"
    },  
    "group":"sub"
   },
@@ -37,7 +37,7 @@
    "shape":"icon",
    "icon": {
      "face":"Ionicons",
-     "code":"\f3a0"
+     "code":"\uf3a0"
    },  
    "group":"sub"
   }
