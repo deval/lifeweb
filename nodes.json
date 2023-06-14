@@ -3,7 +3,7 @@
    "label":"Deval Agrifarman",
    "shape":"circularImage",
    "image":"https://pbs.twimg.com/profile_images/3147240448/937d6098f8d6d2ca2c4d4b965f40d633_400x400.jpeg",
-   "group":"bio"
+   "group":"main"
   },
   {"id":"biography1",
    "label":"Biography",
@@ -12,7 +12,7 @@
      "face":"Ionicons",
      "code":"\f3a0"
    },  
-   "group":"bio"
+   "group":"main"
   },
   {"id":"biography1a",
    "label":"Male",
@@ -21,7 +21,7 @@
      "face":"Ionicons",
      "code":"\f3a0"
    },  
-   "group":"bio"
+   "group":"sub"
   },
   {"id":"biography1b",
    "label":"Surabaya",
@@ -30,7 +30,7 @@
      "face":"Ionicons",
      "code":"\f3a0"
    },  
-   "group":"bio"
+   "group":"sub"
   },
   {"id":"biography1c",
    "label":"INTP",
@@ -39,7 +39,7 @@
      "face":"Ionicons",
      "code":"\f3a0"
    },  
-   "group":"bio"
+   "group":"sub"
   }
 
   
