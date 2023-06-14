@@ -6,5 +6,15 @@
  {"from":"biography1",
   "to":"biography1b"},
  {"from":"biography1",
-  "to":"biography1c"}
+  "to":"biography1c"},
+ {"from":"person1",
+  "to":"work1"},
+ {"from":"person1",
+  "to":"education1"},
+ {"from":"person1",
+  "to":"skill1"}
+
+
+
+
 ]
