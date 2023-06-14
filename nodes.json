@@ -46,7 +46,7 @@
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
-     "code":"\uf015"
+     "code":"\uf0b1"
    },  
    "group":"main"
   },
@@ -55,7 +55,7 @@
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
-     "code":"\uf015"
+     "code":"\uf121"
    },  
    "group":"main"
   },
@@ -64,7 +64,7 @@
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
-     "code":"\uf015"
+     "code":"\uf530"
    },  
    "group":"main"
   },
@@ -73,7 +73,7 @@
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
-     "code":"\uf015"
+     "code":"\uf549"
    },  
    "group":"main"
   },
@@ -82,7 +82,7 @@
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
-     "code":"\uf015"
+     "code":"\uf7d9"
    },  
    "group":"main"
   }
