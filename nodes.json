@@ -10,7 +10,34 @@
    "shape":"icon",
    "icon": {
      "face":"Ionicons",
-     "code":"person"
+     "code":"\f3a0"
+   },  
+   "group":"bio"
+  },
+  {"id":"biography1a",
+   "label":"Male",
+   "shape":"icon",
+   "icon": {
+     "face":"Ionicons",
+     "code":"\f3a0"
+   },  
+   "group":"bio"
+  },
+  {"id":"biography1b",
+   "label":"Surabaya",
+   "shape":"icon",
+   "icon": {
+     "face":"Ionicons",
+     "code":"\f3a0"
+   },  
+   "group":"bio"
+  },
+  {"id":"biography1",
+   "label":"INTP",
+   "shape":"icon",
+   "icon": {
+     "face":"Ionicons",
+     "code":"\f3a0"
    },  
    "group":"bio"
   }
