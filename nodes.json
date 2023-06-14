@@ -40,8 +40,64 @@
      "code":"\uf5dc"
    },  
    "group":"sub"
-  }
+  },
+  {"id":"work1",
+   "label":"Work Experiences",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf015"
+   },  
+   "group":"main"
+  },
+  {"id":"work1a",
+   "label":"Developer",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf015"
+   },  
+   "group":"main"
+  },
+  {"id":"work1b",
+   "label":"Assesor",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf015"
+   },  
+   "group":"main"
+  },
+  {"id":"education1",
+   "label":"Educations",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf015"
+   },  
+   "group":"main"
+  },
+  {"id":"skill1",
+   "label":"Skills",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf015"
+   },  
+   "group":"main"
+  },
 
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
   
   
 ]
