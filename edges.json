@@ -21,7 +21,7 @@
   "to":"education1"},
  
  {"from":"person1",
-  "to":"skill1"}
+  "to":"skill1"},
 
  {"from":"person1",
   "to":"interest1"},
@@ -46,7 +46,7 @@
  {"from":"interest1b",
   "to":"interest1b4"},
  {"from":"interest1b",
-  "to":"interest1b5"},
+  "to":"interest1b5"}
 
 
 ]
