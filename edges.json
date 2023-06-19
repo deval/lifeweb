@@ -19,7 +19,12 @@
  
  {"from":"person1",
   "to":"education1"},
- 
+
+ {"from":"education1",
+  "to":"education1a"},
+ {"from":"education1",
+  "to":"education1b"},
+
  {"from":"person1",
   "to":"skill1"},
 
