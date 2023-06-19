@@ -113,7 +113,33 @@
    },  
    "group":"main"
   },
-
+  {"id":"interest1c",
+   "label":"Drone",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf7d9"
+   },  
+   "group":"main"
+  },
+  {"id":"interest1d",
+   "label":"Cycling",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf7d9"
+   },  
+   "group":"main"
+  },
+  {"id":"interest1e",
+   "label":"Snorkeling",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf7d9"
+   },  
+   "group":"main"
+  }
   
   
   
