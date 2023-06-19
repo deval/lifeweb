@@ -100,7 +100,7 @@
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
-     "code":"\uf7d9"
+     "code":"\uf030"
    },  
    "group":"main"
   },
@@ -109,7 +109,7 @@
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
-     "code":"\uf7d9"
+     "code":"\uf072"
    },  
    "group":"main"
   },
@@ -118,7 +118,7 @@
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
-     "code":"\uf7d9"
+     "code":"\uf85f"
    },  
    "group":"main"
   },
@@ -127,7 +127,7 @@
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
-     "code":"\uf7d9"
+     "code":"\uf206"
    },  
    "group":"main"
   },
@@ -136,7 +136,7 @@
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
-     "code":"\uf7d9"
+     "code":"\uf5c4"
    },  
    "group":"main"
   },
