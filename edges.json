@@ -23,7 +23,30 @@
  {"from":"person1",
   "to":"skill1"}
 
+ {"from":"person1",
+  "to":"interest1"},
 
+ {"from":"interest1",
+  "to":"interest1a"},
+ {"from":"interest1",
+  "to":"interest1b"},
+ {"from":"interest1",
+  "to":"interest1c"},
+ {"from":"interest1",
+  "to":"interest1d"},
+ {"from":"interest1",
+  "to":"interest1e"},
+
+ {"from":"interest1b",
+  "to":"interest1b1"},
+ {"from":"interest1b",
+  "to":"interest1b2"},
+ {"from":"interest1b",
+  "to":"interest1b3"},
+ {"from":"interest1b",
+  "to":"interest1b4"},
+ {"from":"interest1b",
+  "to":"interest1b5"},
 
 
 ]
