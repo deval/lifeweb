@@ -3,8 +3,6 @@
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
     <meta http-equiv="Pragma" content="no-cache" />
     <meta http-equiv="Expires" content="0" />
-    <script src="//cdn.jsdelivr.net/npm/eruda"></script>
-    <script>eruda.init(); console.log('debuger loaded');</script>
     <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
     <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
@@ -18,7 +16,7 @@
     <title>Deval Agrifarman</title>
 </head>
 <body>
-ver 0.006
+ver 0.007
 <div id="mynetwork"></div>
 
 <script type="text/javascript">
@@ -96,13 +94,8 @@ ver 0.006
 
         // initialize your network!
         var network = new vis.Network(container, data, options);
-        console.log("okay finished");
     }
-    document.addEventListener("DOMContentLoaded", function(event) { 
-      console.log("dom loaded");
-      okay();
-    });
-    // okay();
+    okay();
     console.log("test");
 </script>
 </body>
