@@ -77,6 +77,20 @@
    },  
    "group":"main"
   },
+  {"id":"education1a",
+   "label":"ITS S2 Magister Manajemen Teknologi",
+   "shape":"circularImage",
+   "image":"https://www.its.ac.id/wp-content/uploads/2020/07/Lambang-ITS-2-300x300.png",
+   "group":"sub"
+  },
+  {"id":"education1b",
+   "label":"STIKOM Surabaya S1 Manajemen Informatika",
+   "shape":"circularImage",
+   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhjn3l5H-sMFN6bjOItzwVbLSWpS6tbdb1A&usqp=CAU",
+   "group":"sub"
+  },
+  
+
   {"id":"skill1",
    "label":"Skills",
    "shape":"icon",
