@@ -91,7 +91,7 @@
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
-     "code":"\uf7d9"
+     "code":"\uf017"
    },  
    "group":"main"
   },
@@ -118,7 +118,7 @@
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
-     "code":"\uf85f"
+     "code":"\uf11b"
    },  
    "group":"main"
   },
@@ -145,16 +145,16 @@
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
-     "code":"\uf7d9"
+     "code":"\uf0ac"
    },  
    "group":"sub"
   },
   {"id":"interest1b2",
-   "label":"Singaore",
+   "label":"Singapore",
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
-     "code":"\uf7d9"
+     "code":"\uf0ac"
    },  
    "group":"sub"
   },
@@ -163,7 +163,7 @@
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
-     "code":"\uf7d9"
+     "code":"\uf0ac"
    },  
    "group":"sub"
   },
@@ -172,7 +172,7 @@
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
-     "code":"\uf7d9"
+     "code":"\uf0ac"
    },  
    "group":"sub"
   },
@@ -181,7 +181,7 @@
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
-     "code":"\uf7d9"
+     "code":"\uf0ac"
    },  
    "group":"sub"
   }
