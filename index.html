@@ -98,7 +98,10 @@ ver 0.003
         var network = new vis.Network(container, data, options);
         console.log("okay finished");
     }
-    okay();
+    document.addEventListener("DOMContentLoaded", function(event) { 
+      okay();
+    });
+    // okay();
     console.log("test");
 </script>
 </body>
