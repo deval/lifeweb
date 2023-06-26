@@ -19,7 +19,7 @@
             left: 170px;
             z-index: 299;
             width: 250px;
-            height: 120px;
+            /* height: 120px; */
             background-color: #f9f9f9;
             border-style: solid;
             border-width: 3px;
@@ -31,7 +31,7 @@
     <title>Deval Agrifarman</title>
 </head>
 <body>
-ver 0.016
+ver 0.017
 <div id="mynetwork"></div>
 
 <script type="text/javascript">
@@ -177,7 +177,15 @@ ver 0.016
         </tr>
         <tr>
           <td>shape</td>
-          <td><input id="node-shape" value="new value" /></td>
+          <td><input id="node-shape-bak" value="new value" /></td>
+        </tr>
+        <tr>
+          <td>shape</td>
+          <td>
+              <select id="node-shape" value="new value" />
+                  <option value="circularImage">circularImage</option>
+                  <option value="icon">icon</option>
+          </td>
         </tr>
         <tr>
           <td>icon</td>
