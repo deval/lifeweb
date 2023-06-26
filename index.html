@@ -31,7 +31,7 @@
     <title>Deval Agrifarman</title>
 </head>
 <body>
-ver 0.027
+ver 0.028
 <div id="mynetwork"></div>
 
 <script type="text/javascript">
@@ -164,11 +164,17 @@ ver 0.027
             clearPopUp();
             callback(data);
         }
+
+        function myConvert(){
+            document.getElementById("node-icon2").value = String.fromCodePoint(parseInt(document.getElementById("node-icon").value, 16));
+        }
         
         function init() {
             setDefaultLocale();
             draw();
         }        
+
+        document.getElementById("node-icon2").addEventListener('input', myConvert);
 
         // initialize your network!
         var network = new vis.Network(container, data, options);
