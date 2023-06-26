@@ -151,7 +151,8 @@ ver 0.024
             data.id = document.getElementById("node-id").value;
             data.label = document.getElementById("node-label").value;
             data.shape = document.getElementById("node-shape").value;
-            data.icon.code = '\u{' + document.getElementById("node-icon").value + '}';
+            // data.icon.code = '\u{' + document.getElementById("node-icon").value + '}';
+            data.icon.code = String.fromCodePoint(parseInt(document.getElementById("node-icon").value, 16))
             data.image = document.getElementById("node-image").value;
             clearPopUp();
             callback(data);
