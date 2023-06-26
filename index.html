@@ -31,7 +31,7 @@
     <title>Deval Agrifarman</title>
 </head>
 <body>
-ver 0.025
+ver 0.026
 <div id="mynetwork"></div>
 
 <script type="text/javascript">
@@ -64,9 +64,13 @@ ver 0.025
                               document.getElementById("node-id").value = data.id;
                               document.getElementById("node-label").value = data.label;
                               document.getElementById("node-shape").value = data.shape;
-                              document.getElementById("node-icon").value = data.icon.code.trim().codePointAt(0).toString(16);
-                              document.getElementById("node-icon2").value = data.icon.code;
-                              document.getElementById("node-image").value = data.image;
+                              if(data.shape=="icon"){
+                                  document.getElementById("node-icon").value = data.icon.code.trim().codePointAt(0).toString(16);
+                                  document.getElementById("node-icon2").value = data.icon.code;
+                              }
+                              if(data.shape=="circularImage"){
+                                  document.getElementById("node-image").value = data.image;
+                              }
                               document.getElementById("saveButton").onclick = saveData.bind(
                                 this,
                                 data,
@@ -151,9 +155,12 @@ ver 0.025
             data.id = document.getElementById("node-id").value;
             data.label = document.getElementById("node-label").value;
             data.shape = document.getElementById("node-shape").value;
-            // data.icon.code = '\u{' + document.getElementById("node-icon").value + '}';
-            data.icon.code = String.fromCodePoint(parseInt(document.getElementById("node-icon").value, 16))
-            data.image = document.getElementById("node-image").value;
+            if(data.shape=="icon"){
+                data.icon.code = String.fromCodePoint(parseInt(document.getElementById("node-icon").value, 16))
+            }
+            if(data.shape=="circularImage"){
+                data.image = document.getElementById("node-image").value;
+            }
             clearPopUp();
             callback(data);
         }
