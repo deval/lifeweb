@@ -31,7 +31,7 @@
     <title>Deval Agrifarman</title>
 </head>
 <body>
-ver 0.012
+ver 0.013
 <div id="mynetwork"></div>
 
 <script type="text/javascript">
@@ -57,7 +57,24 @@ ver 0.012
             edges: edges
         };
         var options = {
-            manipulation: { enabled: true },
+            manipulation: { enabled: true,
+                            editNode: function (data, callback) {
+                              // filling in the popup DOM elements
+                              document.getElementById("operation").innerText = "Edit Node";
+                              document.getElementById("node-id").value = data.id;
+                              document.getElementById("node-label").value = data.label;
+                              document.getElementById("saveButton").onclick = saveData.bind(
+                                this,
+                                data,
+                                callback
+                              );
+                              document.getElementById("cancelButton").onclick = cancelEdit.bind(
+                                this,
+                                callback
+                              );
+                              document.getElementById("network-popUp").style.display = "block";
+                            },                          
+                          },
             autoResize: true,
             height: '100%',
             width: '100%',
