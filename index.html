@@ -31,7 +31,7 @@
     <title>Deval Agrifarman</title>
 </head>
 <body>
-ver 0.015
+ver 0.016
 <div id="mynetwork"></div>
 
 <script type="text/javascript">
@@ -63,7 +63,9 @@ ver 0.015
                               document.getElementById("operation").innerText = "Edit Node";
                               document.getElementById("node-id").value = data.id;
                               document.getElementById("node-label").value = data.label;
+                              document.getElementById("node-shape").value = data.shape;
                               document.getElementById("node-icon").value = data.icon.code;
+                              document.getElementById("node-image").value = data.image;
                               document.getElementById("saveButton").onclick = saveData.bind(
                                 this,
                                 data,
@@ -174,8 +176,16 @@ ver 0.015
           <td><input id="node-label" value="new value" /></td>
         </tr>
         <tr>
-          <td>label</td>
+          <td>shape</td>
+          <td><input id="node-shape" value="new value" /></td>
+        </tr>
+        <tr>
+          <td>icon</td>
           <td><input id="node-icon" value="new value" /></td>
+        </tr>
+        <tr>
+          <td>image</td>
+          <td><input id="node-image" value="new value" /></td>
         </tr>
       </table>
       <input type="button" value="save" id="saveButton" />
