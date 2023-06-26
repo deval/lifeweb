@@ -32,7 +32,7 @@
 </head>
 <body>
     
-ver 0.038
+ver 0.039
     
 <div>
   <textarea id="input_output"></textarea>
@@ -53,7 +53,7 @@ ver 0.038
 <div id="mynetwork"></div>
 
 <script type="text/javascript">
-    var mynetwork;
+    var thenetwork;
     async function okay(){
         // load data
         const response = await fetch('./nodes.json');
@@ -225,7 +225,7 @@ ver 0.038
         // initialize your network!
         var network = new vis.Network(container, data, options);
         var exportArea = document.getElementById("input_output");
-        mynetwork = network;
+        thenetwork = network;
     }
     okay();
     console.log("test");
