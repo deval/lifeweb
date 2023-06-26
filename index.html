@@ -32,7 +32,7 @@
 </head>
 <body>
     
-ver 0.034
+ver 0.035
     
 <div>
   <textarea id="input_output"></textarea>
@@ -187,6 +187,13 @@ ver 0.034
             document.getElementById("node-icon2").value = String.fromCodePoint(parseInt(document.getElementById("node-icon").value, 16));
         }
 
+        function objectToArray(obj) {
+            return Object.keys(obj).map(function (key) {
+                obj[key].id = key;
+                return obj[key];
+            });
+        }
+        
         function clearOutputArea() {
             exportArea.value = "";
         }
