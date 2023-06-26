@@ -31,7 +31,7 @@
     <title>Deval Agrifarman</title>
 </head>
 <body>
-ver 0.021
+ver 0.022
 <div id="mynetwork"></div>
 
 <script type="text/javascript">
@@ -64,7 +64,7 @@ ver 0.021
                               document.getElementById("node-id").value = data.id;
                               document.getElementById("node-label").value = data.label;
                               document.getElementById("node-shape").value = data.shape;
-                              document.getElementById("node-icon").value = data.icon.code.replace('\\u','');
+                              document.getElementById("node-icon").value = data.icon.code.replace('\u','');
                               document.getElementById("node-icon2").value = data.icon.code;
                               document.getElementById("node-image").value = data.image;
                               document.getElementById("saveButton").onclick = saveData.bind(
@@ -151,7 +151,7 @@ ver 0.021
             data.id = document.getElementById("node-id").value;
             data.label = document.getElementById("node-label").value;
             data.shape = document.getElementById("node-shape").value;
-            data.icon.code = '\\u' + document.getElementById("node-icon").value;
+            data.icon.code = '\u' + document.getElementById("node-icon").value;
             data.image = document.getElementById("node-image").value;
             clearPopUp();
             callback(data);
