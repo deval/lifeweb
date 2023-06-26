@@ -16,7 +16,7 @@
     <title>Deval Agrifarman</title>
 </head>
 <body>
-ver 0.009
+ver 0.010
 <div id="mynetwork"></div>
 
 <script type="text/javascript">
@@ -106,5 +106,20 @@ ver 0.009
     okay();
     console.log("test");
 </script>
+    <div id="network-popUp">
+      <span id="operation">node</span> <br />
+      <table style="margin: auto">
+        <tr>
+          <td>id</td>
+          <td><input id="node-id" value="new value" /></td>
+        </tr>
+        <tr>
+          <td>label</td>
+          <td><input id="node-label" value="new value" /></td>
+        </tr>
+      </table>
+      <input type="button" value="save" id="saveButton" />
+      <input type="button" value="cancel" id="cancelButton" />
+    </div>
 </body>
 </html>
