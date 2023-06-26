@@ -31,7 +31,28 @@
     <title>Deval Agrifarman</title>
 </head>
 <body>
-ver 0.029
+ver 0.030
+<div>
+  <textarea id="input_output"></textarea>
+  <input
+    type="button"
+    id="import_button"
+    onclick="importNetwork()"
+    value="import"
+  />
+  <input
+    type="button"
+    id="export_button"
+    onclick="exportNetwork()"
+    value="export"
+  />
+  <input
+    type="button"
+    id="destroy_button"
+    onclick="destroyNetwork()"
+    value="destroy"
+  />
+</div>
 <div id="mynetwork"></div>
 
 <script type="text/javascript">
