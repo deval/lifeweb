@@ -31,7 +31,7 @@
     <title>Deval Agrifarman</title>
 </head>
 <body>
-ver 0.031
+ver 0.032
 <div>
   <textarea id="input_output"></textarea>
   <input
@@ -211,6 +211,7 @@ ver 0.031
         //}        
         
         document.getElementById("node-icon").addEventListener('input', myConvert);
+        document.getElementById("export_button").addEventListener('onclick', exportNetwork);
 
         // initialize your network!
         var network = new vis.Network(container, data, options);
