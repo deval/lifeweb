@@ -31,7 +31,9 @@
     <title>Deval Agrifarman</title>
 </head>
 <body>
-ver 0.033
+    
+ver 0.034
+    
 <div>
   <textarea id="input_output"></textarea>
   <input
@@ -40,7 +42,7 @@ ver 0.033
     onclick="importNetwork()"
     value="import"
   />
-  <input type="button" id="export_button"/>
+  <input type="button" id="export_button" value="export"/>
   <input
     type="button"
     id="destroy_button"
@@ -185,6 +187,10 @@ ver 0.033
             document.getElementById("node-icon2").value = String.fromCodePoint(parseInt(document.getElementById("node-icon").value, 16));
         }
 
+        function clearOutputArea() {
+            exportArea.value = "";
+        }
+        
         function addConnections(elem, index) {
             // need to replace this with a tree of the network, then get child direct children of the element
             elem.connections = network.getConnectedNodes(index);
