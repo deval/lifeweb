@@ -1,0 +1,109 @@
+<html>
+<head>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <style type="text/css">
+        #mynetwork {
+            width: 100%;
+            height: 100%;
+            border: 1px solid lightgray;
+        }
+    </style>
+    <title>Deval Agrifarman</title>
+</head>
+<body>
+ver 0.008
+<div id="mynetwork"></div>
+
+<script type="text/javascript">
+    async function okay(){
+        // load data
+        const response = await fetch('./nodes.json');
+        const mynodes = await response.json();
+        const response2 = await fetch('./edges.json');
+        const myedges = await response2.json();
+                      
+        // create an array with nodes
+        var nodes = new vis.DataSet(mynodes);
+
+        // create an array with edges
+        var edges = new vis.DataSet(myedges);
+
+        // create a network
+        var container = document.getElementById('mynetwork');
+
+        // provide the data in the vis format
+        var data = {
+            nodes: nodes,
+            edges: edges
+        };
+        var options = {
+            autoResize: true,
+            height: '100%',
+            width: '100%',
+            layout: {
+                improvedLayout: false,
+            },
+            configure: {
+                enabled: true,
+            },
+            nodes: {
+                shape: 'dot',
+                size:16,
+                mass:1,
+            },
+            groups: {
+                main: {
+                    size: 64,
+                    mass: 3,
+                    color: {
+                      border: '#2B7CE9',
+                      background: '#97C2FC',
+                      highlight: {
+                        border: '#2B7CE9',
+                        background: '#D2E5FF'
+                      },
+                      hover: {
+                        border: '#2B7CE9',
+                        background: '#D2E5FF'
+                      },
+                    },
+                    icon: {
+                      color: '#2B7CE9',
+                    },
+                },
+                sub: {
+                    size: 32,
+                    mass: 1,
+                    color: {
+                      border: '#E92B7C',
+                      background: '#FC97C2',
+                      highlight: {
+                        border: '#E92B7C',
+                        background: '#FFD2E5'
+                      },
+                      hover: {
+                        border: '#E92B7C',
+                        background: '#FFD2E5'
+                      },
+                    },
+                    icon: {
+                      color: '#E92B7C',
+                    },
+
+                },
+            },
+        };
+
+        // initialize your network!
+        var network = new vis.Network(container, data, options);
+    }
+    okay();
+    console.log("test");
+</script>
+</body>
+</html>
