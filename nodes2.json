@@ -191,6 +191,55 @@
    "group":"sub"
   }
 
+  {"id":"Raja Ampat",
+   "label":"Raja Ampat",
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h160/id.png",  
+   "group":"sub"
+  },
+  {"id":"Komodo",
+   "label":"Komodo",
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h160/id.png",  
+   "group":"sub"
+  },
+  {"id":"Nusa Penida",
+   "label":"Nusa Penida",
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h160/id.png",  
+   "group":"sub"
+  },
+  {"id":"Sanur",
+   "label":"Sanur",
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h160/id.png",  
+   "group":"sub"
+  },
+  {"id":"Kuta",
+   "label":"Kuta",
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h160/id.png",  
+   "group":"sub"
+  },
+  {"id":"Bali",
+   "label":"Bali",
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h160/id.png",  
+   "group":"sub"
+  },
+  {"id":"Papua",
+   "label":"Papua",
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h160/id.png",  
+   "group":"sub"
+  },
+  {"id":"Jakarta",
+   "label":"Jakarta",
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h160/id.png",  
+   "group":"sub"
+  }
+  
 
 
 
