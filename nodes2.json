@@ -217,6 +217,18 @@
    "image":"https://flagcdn.com/h120/id.png",  
    "group":"sub"
   },
+  {"id":"Monas",
+   "label":"Monas",
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h120/id.png",  
+   "group":"sub"
+  },
+  {"id":"Bundaran HI",
+   "label":"Bundaran HI",
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h120/id.png",  
+   "group":"sub"
+  },
 
   {"id":"Nusa Tenggara Timur",
    "label":"Nusa Tenggara Timur",
