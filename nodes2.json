@@ -458,6 +458,12 @@
    "image":"https://flagcdn.com/h120/jp.png",  
    "group":"sub"
   },
+  {"id":"Osaka Castle",
+   "label":"Osaka Castle",
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h120/jp.png",  
+   "group":"sub"
+  },
   {"id":"Tokyo",
    "label":"Tokyo",
    "shape":"circularImage",
