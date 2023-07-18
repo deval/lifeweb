@@ -154,6 +154,73 @@
    },  
    "group":"main"
   },
+  
+  {"id":"Programming",
+   "label":"Programming",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf121"
+   },  
+   "group":"main"
+  },
+  {"id":"Javascript",
+   "label":"Javascript",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf121"
+   },  
+   "group":"main"
+  },
+  {"id":"PHP",
+   "label":"PHP",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf121"
+   },  
+   "group":"main"
+  },
+  {"id":"Python",
+   "label":"Python",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf121"
+   },  
+   "group":"main"
+  },
+  {"id":"SQL",
+   "label":"SQL",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf121"
+   },  
+   "group":"main"
+  },
+  {"id":"HTML",
+   "label":"HTML",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf121"
+   },  
+   "group":"main"
+  },
+  {"id":"CSS",
+   "label":"CSS",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf121"
+   },  
+   "group":"main"
+  },
+  
+  
+  
   {"id":"Indonesia",
    "label":"Indonesia",
    "shape":"circularImage",
