@@ -31,6 +31,22 @@
  {"from":"Deval Agrifarman",
   "to":"Interest"},
 
+ {"from":"Skill",
+  "to":"Programming"},
+ {"from":"Programming",
+  "to":"Javascript"},
+ {"from":"Programming",
+  "to":"PHP"},
+ {"from":"Programming",
+  "to":"SQL"},
+ {"from":"Programming",
+  "to":"Python"},
+ {"from":"Programming",
+  "to":"HTML"},
+ {"from":"Programming",
+  "to":"CSS"},
+
+
  {"from":"Interest",
   "to":"Traveling"},
  {"from":"Interest",
