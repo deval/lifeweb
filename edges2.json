@@ -78,10 +78,6 @@
  {"from":"Turkey",
   "to":"Cappadocia"},
 
- {"from":"Vietnam",
-  "to":"Ho Chi Minh"},
- {"from":"Vietnam",
-  "to":"Vung Tau"},
 
  {"from":"Indonesia",
   "to":"Jakarta"},
@@ -106,9 +102,25 @@
  {"from":"Indonesia",
   "to":"Banjarmasin"},
  {"from":"Indonesia",
-  "to":"Balikpapan"}
+  "to":"Balikpapan"},
+
+ {"from":"Jakarta",
+  "to":"Ancol"},
+ {"from":"Jakarta",
+  "to":"Kota Tua"},
+ {"from":"Jakarta",
+  "to":"Kepulauan Seribu"},
+ {"from":"Jakarta",
+  "to":"Monas"},
+ {"from":"Jakarta",
+  "to":"Bundaraan HI"},
 
 
+
+ {"from":"Vietnam",
+  "to":"Ho Chi Minh"},
+ {"from":"Vietnam",
+  "to":"Vung Tau"}
 
 
 
