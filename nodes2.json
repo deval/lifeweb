@@ -251,7 +251,10 @@
    "icon": {
      "face":"FontAwesome",
      "code":"\uf121"
-   },  
+   },
+   "color": {
+     "background":"#555555"  
+   },
    "group":"main"
   },
   
