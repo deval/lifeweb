@@ -269,6 +269,19 @@
    "image":"https://flagcdn.com/h120/vn.png",  
    "group":"sub"
   },
+  {"id":"Ho Chi Minh",
+   "label":"Ho Chi Minh",
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h120/vn.png",  
+   "group":"sub"
+  },
+  {"id":"Vung Tau",
+   "label":"Vung Tau",
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h120/vn.png",  
+   "group":"sub"
+  },
+  
   {"id":"Japan",
    "label":"Japan",
    "shape":"circularImage",
