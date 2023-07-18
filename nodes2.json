@@ -430,6 +430,26 @@
    "image":"https://flagcdn.com/h120/jp.png",  
    "group":"sub"
   }
+  {"id":"Kyoto",
+   "label":"Kyoto",
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h120/jp.png",  
+   "group":"sub"
+  }
+  {"id":"Osaka",
+   "label":"Osaka",
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h120/jp.png",  
+   "group":"sub"
+  }
+  {"id":"Tokyo",
+   "label":"Tokyo",
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h120/jp.png",  
+   "group":"sub"
+  }
+  
+  
 
 
 
