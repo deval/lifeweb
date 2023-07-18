@@ -162,47 +162,32 @@
   },
   {"id":"Singapore",
    "label":"Singapore",
-   "shape":"icon",
-   "icon": {
-     "face":"FontAwesome",
-     "code":"\uf0ac"
-   },  
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h100/sg.png",  
    "group":"sub"
   },
   {"id":"Malaysia",
    "label":"Malaysia",
-   "shape":"icon",
-   "icon": {
-     "face":"FontAwesome",
-     "code":"\uf0ac"
-   },  
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h100/my.png",  
    "group":"sub"
   },
   {"id":"Turkey",
    "label":"Turkey",
-   "shape":"icon",
-   "icon": {
-     "face":"FontAwesome",
-     "code":"\uf0ac"
-   },  
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h100/ty.png",  
    "group":"sub"
   },
   {"id":"Vietnam",
    "label":"Turkey",
-   "shape":"icon",
-   "icon": {
-     "face":"FontAwesome",
-     "code":"\uf0ac"
-   },  
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h100/vt.png",  
    "group":"sub"
   },
   {"id":"Japan",
    "label":"Japan",
-   "shape":"icon",
-   "icon": {
-     "face":"FontAwesome",
-     "code":"\uf0ac"
-   },  
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h100/jp.png",  
    "group":"sub"
   }
 
