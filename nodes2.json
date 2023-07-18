@@ -218,6 +218,42 @@
    },  
    "group":"main"
   },
+  {"id":"C++",
+   "label":"C++",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf121"
+   },  
+   "group":"main"
+  },
+  {"id":"IoT",
+   "label":"IoT",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf121"
+   },  
+   "group":"main"
+  },
+  {"id":"ESP32",
+   "label":"ESP32",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf121"
+   },  
+   "group":"main"
+  },
+  {"id":"Arduino",
+   "label":"Arduino",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf121"
+   },  
+   "group":"main"
+  },
   
   
   
