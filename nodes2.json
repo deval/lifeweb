@@ -1,0 +1,205 @@
+[
+  {"id":"Deval Agrifarman",
+   "label":"Deval Agrifarman",
+   "shape":"circularImage",
+   "image":"https://pbs.twimg.com/profile_images/3147240448/937d6098f8d6d2ca2c4d4b965f40d633_400x400.jpeg",
+   "group":"main"
+  },
+  {"id":"Biography",
+   "label":"Biography",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf007"
+   },  
+   "group":"main"
+  },
+  {"id":"Male",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf222"
+   },  
+   "group":"sub"
+  },
+  {"id":"biography1b",
+   "label":"Surabaya",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf015"
+   },  
+   "group":"sub"
+  },
+  {"id":"biography1c",
+   "label":"INTP",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf5dc"
+   },  
+   "group":"sub"
+  },
+  {"id":"work1",
+   "label":"Work Experiences",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf0b1"
+   },  
+   "group":"main"
+  },
+  {"id":"work1a",
+   "label":"Developer",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf121"
+   },  
+   "group":"main"
+  },
+  {"id":"work1b",
+   "label":"Assesor",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf530"
+   },  
+   "group":"main"
+  },
+  {"id":"education1",
+   "label":"Educations",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf549"
+   },  
+   "group":"main"
+  },
+  {"id":"education1a",
+   "label":"ITS S2 Magister Manajemen Teknologi",
+   "shape":"circularImage",
+   "image":"https://www.its.ac.id/wp-content/uploads/2020/07/Lambang-ITS-2-300x300.png",
+   "group":"sub"
+  },
+  {"id":"education1b",
+   "label":"STIKOM Surabaya S1 Manajemen Informatika",
+   "shape":"circularImage",
+   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhjn3l5H-sMFN6bjOItzwVbLSWpS6tbdb1A&usqp=CAU",
+   "group":"sub"
+  },
+  
+
+  {"id":"skill1",
+   "label":"Skills",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf7d9"
+   },  
+   "group":"main"
+  },
+  {"id":"interest1",
+   "label":"Interest",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf017"
+   },  
+   "group":"main"
+  },
+  {"id":"interest1a",
+   "label":"Photography",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf030"
+   },  
+   "group":"main"
+  },
+  {"id":"interest1b",
+   "label":"Traveling",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf072"
+   },  
+   "group":"main"
+  },
+  {"id":"interest1c",
+   "label":"Drone",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf11b"
+   },  
+   "group":"main"
+  },
+  {"id":"interest1d",
+   "label":"Cycling",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf206"
+   },  
+   "group":"main"
+  },
+  {"id":"interest1e",
+   "label":"Snorkeling",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf5c4"
+   },  
+   "group":"main"
+  },
+  {"id":"interest1b1",
+   "label":"Indonesia",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf0ac"
+   },  
+   "group":"sub"
+  },
+  {"id":"interest1b2",
+   "label":"Singapore",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf0ac"
+   },  
+   "group":"sub"
+  },
+  {"id":"interest1b3",
+   "label":"Malaysia",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf0ac"
+   },  
+   "group":"sub"
+  },
+  {"id":"interest1b4",
+   "label":"Turkey",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf0ac"
+   },  
+   "group":"sub"
+  },
+  {"id":"interest1b5",
+   "label":"Japan",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf0ac"
+   },  
+   "group":"sub"
+  }
+
+
+
+
+]
