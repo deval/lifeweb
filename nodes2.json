@@ -157,37 +157,37 @@
   {"id":"Indonesia",
    "label":"Indonesia",
    "shape":"circularImage",
-   "image":"https://flagcdn.com/h100/id.png",  
+   "image":"https://flagcdn.com/h160/id.png",  
    "group":"sub"
   },
   {"id":"Singapore",
    "label":"Singapore",
    "shape":"circularImage",
-   "image":"https://flagcdn.com/h100/sg.png",  
+   "image":"https://flagcdn.com/h160/sg.png",  
    "group":"sub"
   },
   {"id":"Malaysia",
    "label":"Malaysia",
    "shape":"circularImage",
-   "image":"https://flagcdn.com/h100/my.png",  
+   "image":"https://flagcdn.com/h160/my.png",  
    "group":"sub"
   },
   {"id":"Turkey",
    "label":"Turkey",
    "shape":"circularImage",
-   "image":"https://flagcdn.com/h100/tr.png",  
+   "image":"https://flagcdn.com/h160/tr.png",  
    "group":"sub"
   },
   {"id":"Vietnam",
    "label":"Turkey",
    "shape":"circularImage",
-   "image":"https://flagcdn.com/h100/vn.png",  
+   "image":"https://flagcdn.com/h160/vn.png",  
    "group":"sub"
   },
   {"id":"Japan",
    "label":"Japan",
    "shape":"circularImage",
-   "image":"https://flagcdn.com/h100/jp.png",  
+   "image":"https://flagcdn.com/h160/jp.png",  
    "group":"sub"
   }
 
