@@ -227,6 +227,16 @@
    },  
    "group":"main"
   },
+  {"id":"UML",
+   "label":"UML",
+   "shape":"icon",
+   "icon": {
+     "face":"FontAwesome",
+     "code":"\uf121"
+   },  
+   "group":"main"
+  },
+  
   {"id":"IoT",
    "label":"IoT",
    "shape":"icon",
