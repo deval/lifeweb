@@ -231,6 +231,18 @@
    "group":"sub"
   },
 
+  {"id":"Pacitan",
+   "label":"Pacitan",
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h120/id.png",  
+   "group":"sub"
+  },
+  {"id":"Solo",
+   "label":"Solo",
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h120/id.png",  
+   "group":"sub"
+  },
 
 
   {"id":"Singapore",
@@ -262,7 +274,7 @@
    "shape":"circularImage",
    "image":"https://flagcdn.com/h120/jp.png",  
    "group":"sub"
-  },
+  }
 
 
 
