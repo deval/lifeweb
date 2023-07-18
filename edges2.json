@@ -45,6 +45,15 @@
   "to":"HTML"},
  {"from":"Programming",
   "to":"CSS"},
+ {"from":"Programming",
+  "to":"C++"},
+
+ {"from":"Skill",
+  "to":"IoT"},
+ {"from":"IoT",
+  "to":"Arduino"},
+ {"from":"IoT",
+  "to":"ESP32"},
 
 
  {"from":"Interest",
