@@ -15,6 +15,7 @@
    "group":"main"
   },
   {"id":"Male",
+   "label":"Male",
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
@@ -22,7 +23,7 @@
    },  
    "group":"sub"
   },
-  {"id":"biography1b",
+  {"id":"Surabaya",
    "label":"Surabaya",
    "shape":"icon",
    "icon": {
@@ -31,7 +32,7 @@
    },  
    "group":"sub"
   },
-  {"id":"biography1c",
+  {"id":"INTP",
    "label":"INTP",
    "shape":"icon",
    "icon": {
@@ -40,8 +41,8 @@
    },  
    "group":"sub"
   },
-  {"id":"work1",
-   "label":"Work Experiences",
+  {"id":"Experience",
+   "label":"Experience",
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
@@ -49,7 +50,7 @@
    },  
    "group":"main"
   },
-  {"id":"work1a",
+  {"id":"Developer",
    "label":"Developer",
    "shape":"icon",
    "icon": {
@@ -58,7 +59,7 @@
    },  
    "group":"main"
   },
-  {"id":"work1b",
+  {"id":"Asessor",
    "label":"Assesor",
    "shape":"icon",
    "icon": {
@@ -67,8 +68,8 @@
    },  
    "group":"main"
   },
-  {"id":"education1",
-   "label":"Educations",
+  {"id":"Education",
+   "label":"Education",
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
@@ -76,13 +77,13 @@
    },  
    "group":"main"
   },
-  {"id":"education1a",
+  {"id":"ITS",
    "label":"ITS S2 Magister Manajemen Teknologi",
    "shape":"circularImage",
    "image":"https://www.its.ac.id/wp-content/uploads/2020/07/Lambang-ITS-2-300x300.png",
    "group":"sub"
   },
-  {"id":"education1b",
+  {"id":"STIKOM",
    "label":"STIKOM Surabaya S1 Manajemen Informatika",
    "shape":"circularImage",
    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhjn3l5H-sMFN6bjOItzwVbLSWpS6tbdb1A&usqp=CAU",
@@ -90,8 +91,8 @@
   },
   
 
-  {"id":"skill1",
-   "label":"Skills",
+  {"id":"Skill",
+   "label":"Skill",
    "shape":"icon",
    "icon": {
      "face":"FontAwesome",
@@ -99,7 +100,7 @@
    },  
    "group":"main"
   },
-  {"id":"interest1",
+  {"id":"Interest",
    "label":"Interest",
    "shape":"icon",
    "icon": {
@@ -108,7 +109,7 @@
    },  
    "group":"main"
   },
-  {"id":"interest1a",
+  {"id":"Photography",
    "label":"Photography",
    "shape":"icon",
    "icon": {
@@ -117,7 +118,7 @@
    },  
    "group":"main"
   },
-  {"id":"interest1b",
+  {"id":"Traveling",
    "label":"Traveling",
    "shape":"icon",
    "icon": {
@@ -126,7 +127,7 @@
    },  
    "group":"main"
   },
-  {"id":"interest1c",
+  {"id":"Drone",
    "label":"Drone",
    "shape":"icon",
    "icon": {
@@ -135,7 +136,7 @@
    },  
    "group":"main"
   },
-  {"id":"interest1d",
+  {"id":"Cycling",
    "label":"Cycling",
    "shape":"icon",
    "icon": {
@@ -144,7 +145,7 @@
    },  
    "group":"main"
   },
-  {"id":"interest1e",
+  {"id":"Snorkeling",
    "label":"Snorkeling",
    "shape":"icon",
    "icon": {
@@ -153,7 +154,7 @@
    },  
    "group":"main"
   },
-  {"id":"interest1b1",
+  {"id":"Indonesia",
    "label":"Indonesia",
    "shape":"icon",
    "icon": {
@@ -162,7 +163,7 @@
    },  
    "group":"sub"
   },
-  {"id":"interest1b2",
+  {"id":"Singapore",
    "label":"Singapore",
    "shape":"icon",
    "icon": {
@@ -171,7 +172,7 @@
    },  
    "group":"sub"
   },
-  {"id":"interest1b3",
+  {"id":"Malaysia",
    "label":"Malaysia",
    "shape":"icon",
    "icon": {
@@ -180,7 +181,7 @@
    },  
    "group":"sub"
   },
-  {"id":"interest1b4",
+  {"id":"Turkey",
    "label":"Turkey",
    "shape":"icon",
    "icon": {
@@ -189,7 +190,7 @@
    },  
    "group":"sub"
   },
-  {"id":"interest1b5",
+  {"id":"Japan",
    "label":"Japan",
    "shape":"icon",
    "icon": {
