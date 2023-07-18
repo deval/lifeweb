@@ -87,7 +87,6 @@
  {"from":"Turkey",
   "to":"Cappadocia"},
 
-
  {"from":"Indonesia",
   "to":"Jakarta"},
  {"from":"Indonesia",
@@ -129,6 +128,12 @@
  {"from":"Bali",
   "to":"Kuta"},
 
+ {"from":"Japan",
+  "to":"Tokyo"},
+ {"from":"Japan",
+  "to":"Osaka"},
+ {"from":"Japan",
+  "to":"Kyoto"},
 
 
  {"from":"Vietnam",
