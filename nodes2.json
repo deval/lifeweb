@@ -272,6 +272,12 @@
    "image":"https://flagcdn.com/h120/id.png",  
    "group":"sub"
   },
+  {"id":"Kepulauan Seribu",
+   "label":"Kepulauan Seribu",
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h120/id.png",  
+   "group":"sub"
+  },
   {"id":"Ancol",
    "label":"Ancol",
    "shape":"circularImage",
