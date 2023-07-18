@@ -156,11 +156,8 @@
   },
   {"id":"Indonesia",
    "label":"Indonesia",
-   "shape":"icon",
-   "icon": {
-     "face":"FontAwesome",
-     "code":"\uf0ac"
-   },  
+   "shape":"circularImage",
+   "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Indonesia_%28physical_version%29.svg/320px-Flag_of_Indonesia_%28physical_version%29.svg.png",  
    "group":"sub"
   },
   {"id":"Singapore",
