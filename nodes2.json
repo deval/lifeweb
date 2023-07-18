@@ -375,8 +375,21 @@
    "image":"https://flagcdn.com/h120/sg.png",  
    "group":"sub"
   },
+  
   {"id":"Malaysia",
    "label":"Malaysia",
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h120/my.png",  
+   "group":"sub"
+  },
+  {"id":"Kuala Lumpur",
+   "label":"Kuala Lumpur",
+   "shape":"circularImage",
+   "image":"https://flagcdn.com/h120/my.png",  
+   "group":"sub"
+  },
+  {"id":"Malaka",
+   "label":"Malaka",
    "shape":"circularImage",
    "image":"https://flagcdn.com/h120/my.png",  
    "group":"sub"
@@ -432,19 +445,19 @@
    "shape":"circularImage",
    "image":"https://flagcdn.com/h120/jp.png",  
    "group":"sub"
-  }
+  },
   {"id":"Kyoto",
    "label":"Kyoto",
    "shape":"circularImage",
    "image":"https://flagcdn.com/h120/jp.png",  
    "group":"sub"
-  }
+  },
   {"id":"Osaka",
    "label":"Osaka",
    "shape":"circularImage",
    "image":"https://flagcdn.com/h120/jp.png",  
    "group":"sub"
-  }
+  },
   {"id":"Tokyo",
    "label":"Tokyo",
    "shape":"circularImage",
