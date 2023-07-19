@@ -7,9 +7,8 @@
 }, {
   "selector": "node",
   "style": {
-    "text-valign": "center",
-    "text-halign": "left",    
-    "label": "data(id)",
+    "text-valign": "bottom",
+    "text-halign": "center",    
     "height": 40,
     "width": 40
   }
