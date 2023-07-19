@@ -1,29 +1,28 @@
 [
 {
   "data": {
-    "id": "n01",
-    "type": "bezier"
+    "id": "deval-agrifarman"
   }
 }, {
   "data": {
-    "id": "n02"
+    "id": "biography"
   }
 }, {
   "data": {
-    "source": "n01",
-    "target": "n02"
+    "source": "deval-agrifarman",
+    "target": "biography"
   },
   "classes": "bezier"
 }, {
   "data": {
-    "source": "n01",
-    "target": "n02"
+    "source": "deval-agrifarman",
+    "target": "biography"
   },
   "classes": "bezier"
 }, {
   "data": {
-    "source": "n02",
-    "target": "n01"
+    "source": "biography",
+    "target": "deval-agrifarman"
   },
   "classes": "bezier"
 }
