@@ -17,7 +17,7 @@
     "text-halign": "center",    
     "height": 40,
     "width": 40,
-    "color": "#000",
+    "color": "#fff",
     "text-outline-color": "#888",
     "text-outline-width": 3    
   }
