@@ -27,5 +27,12 @@
     "curve-style": "bezier",
     "control-point-step-size": 40
   }
+}, {
+  "selector": ".myicon::before",
+  "style": {
+    "content": "\f007"
+  }
 }
+
+
 ]
