@@ -9,7 +9,7 @@
   "style": {
     "text-valign": "center",
     "text-halign": "left",    
-    "label": "data(type)",
+    "label": "data(id)",
     "height": 40,
     "width": 40
   }
