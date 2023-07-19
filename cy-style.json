@@ -1,4 +1,5 @@
-[{
+[
+{
   "selector": "node",
   "style": {
     "shape": "data(type)",
@@ -13,4 +14,11 @@
     "label": "polygon\n(custom points)",
     "text-wrap": "wrap"
   }
-}]
+}, {
+  "selector": "edge.bezier",
+  "style": {
+    "curve-style": "bezier",
+    "control-point-step-size": 40
+  }
+}
+]
