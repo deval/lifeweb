@@ -7,6 +7,12 @@
   }
 }, {
   "data": {
+    "id": "male",
+    "name": "nguk",
+    "label": "Male"
+  }
+}, {
+  "data": {
     "id": "biography",
     "label": "Biography"
   },
