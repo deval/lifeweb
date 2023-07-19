@@ -5,10 +5,14 @@
     "width": 3
   }
 }, {
-  "selector": "node",
-  "style": {
+    "selector": "node[label]",
+    "style": {
     "name": "data(name)",
     "label": "data(label)",
+    }
+}, {
+  "selector": "node",
+  "style": {
     "text-valign": "bottom",
     "text-halign": "center",    
     "height": 40,
