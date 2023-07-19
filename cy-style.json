@@ -18,5 +18,12 @@
     "curve-style": "bezier",
     "control-point-step-size": 40
   }
-}
+}, {
+    "selector": ".outline",
+    "style": {
+      "color": "#fff",
+      "text-outline-color": "#888",
+      "text-outline-width": 3
+    }
+  }
 ]
