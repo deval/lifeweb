@@ -1,0 +1,30 @@
+[
+{
+  "data": {
+    "id": "n01",
+    "type": "bezier"
+  }
+}, {
+  "data": {
+    "id": "n02"
+  }
+}, {
+  "data": {
+    "source": "n01",
+    "target": "n02"
+  },
+  "classes": "bezier"
+}, {
+  "data": {
+    "source": "n01",
+    "target": "n02"
+  },
+  "classes": "bezier"
+}, {
+  "data": {
+    "source": "n02",
+    "target": "n01"
+  },
+  "classes": "bezier"
+}
+]
