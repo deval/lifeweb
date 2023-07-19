@@ -80,6 +80,12 @@
  {"from":"Traveling",
   "to":"Singapore"},
 
+ {"from":"Malaysia",
+  "to":"Kuala Lumpur"},
+ {"from":"Malaysia",
+  "to":"Malaka"},
+
+ 
  {"from":"Turkey",
   "to":"Istanbul"},
  {"from":"Turkey",
@@ -112,6 +118,14 @@
  {"from":"Indonesia",
   "to":"Balikpapan"},
 
+
+ 
+ {"from":"Papua",
+  "to":"Raja Ampat"},
+
+  {"from":"Nusa Tenggara Timur",
+  "to":"Komodo"},
+
  {"from":"Jakarta",
   "to":"Ancol"},
  {"from":"Jakarta",
@@ -127,6 +141,8 @@
   "to":"Sanur"},
  {"from":"Bali",
   "to":"Kuta"},
+ {"from":"Bali",
+  "to":"Nusa Penida"},
 
  {"from":"Japan",
   "to":"Tokyo"},
@@ -135,6 +151,8 @@
  {"from":"Japan",
   "to":"Kyoto"},
 
+ {"from":"Osaka",
+  "to":"Osaka Castle"}, 
 
  {"from":"Vietnam",
   "to":"Ho Chi Minh"},
