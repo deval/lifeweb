@@ -8,7 +8,7 @@
     "selector": "node[label]",
     "style": {
     "name": "data(name)",
-    "label": "data(label)",
+    "label": "data(label)"
     }
 }, {
   "selector": "node",
