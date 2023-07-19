@@ -1,18 +1,17 @@
 [
 {
+  "selector": "edge",
+  "style": {
+    "width": 3
+  }
+}, {
   "selector": "node",
   "style": {
-    "shape": "data(type)",
+    "text-valign": "center",
+    "text-halign": "left",    
     "label": "data(type)",
     "height": 40,
     "width": 40
-  }
-}, {
-  "selector": "node[points]",
-  "style": {
-    "shape-polygon-points": "data(points)",
-    "label": "polygon\n(custom points)",
-    "text-wrap": "wrap"
   }
 }, {
   "selector": "edge.bezier",
