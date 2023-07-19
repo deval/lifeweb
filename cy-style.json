@@ -10,7 +10,10 @@
     "text-valign": "bottom",
     "text-halign": "center",    
     "height": 40,
-    "width": 40
+    "width": 40,
+    "color": "#fff",
+    "text-outline-color": "#888",
+    "text-outline-width": 3    
   }
 }, {
   "selector": "edge.bezier",
@@ -18,12 +21,5 @@
     "curve-style": "bezier",
     "control-point-step-size": 40
   }
-}, {
-    "selector": ".outline",
-    "style": {
-      "color": "#fff",
-      "text-outline-color": "#888",
-      "text-outline-width": 3
-    }
-  }
+}
 ]
