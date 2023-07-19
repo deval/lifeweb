@@ -7,6 +7,8 @@
 }, {
   "selector": "node",
   "style": {
+    "name": "data(name)",
+    "label": "data(label)",
     "text-valign": "bottom",
     "text-halign": "center",    
     "height": 40,
