@@ -1,11 +1,13 @@
 [
 {
   "data": {
-    "id": "deval-agrifarman"
+    "id": "deval-agrifarman",
+    "label": "Deval Agrifarman"
   }
 }, {
   "data": {
-    "id": "biography"
+    "id": "biography",
+    "label": "Biography"
   }
 }, {
   "data": {
